@@ -1,0 +1,2 @@
+check that the last line in the dictionary is empty
+(the last word must have a newline)
